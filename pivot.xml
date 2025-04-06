@@ -1,62 +1,111 @@
-<SalesData>
-    <sale>
-        <product>Laptop</product>
-        <category>Electronics</category>
-        <total_quantity>10</total_quantity>
-        <total_revenue>15000</total_revenue>
-    </sale>
-    <sale>
-        <product>Mouse</product>
-        <category>Accessories</category>
-        <total_quantity>25</total_quantity>
-        <total_revenue>625</total_revenue>
-    </sale>
-    <sale>
-        <product>Keyboard</product>
-        <category>Accessories</category>
-        <total_quantity>15</total_quantity>
-        <total_revenue>675</total_revenue>
-    </sale>
-    <sale>
-        <product>Monitor</product>
-        <category>Electronics</category>
-        <total_quantity>8</total_quantity>
-        <total_revenue>3200</total_revenue>
-    </sale>
-    <sale>
-        <product>USB Drive</product>
-        <category>Storage</category>
-        <total_quantity>30</total_quantity>
-        <total_revenue>450</total_revenue>
-    </sale>
-    <sale>
-        <product>Headset</product>
-        <category>Accessories</category>
-        <total_quantity>12</total_quantity>
-        <total_revenue>900</total_revenue>
-    </sale>
-    <sale>
-        <product>Webcam</product>
-        <category>Accessories</category>
-        <total_quantity>6</total_quantity>
-        <total_revenue>480</total_revenue>
-    </sale>
-    <sale>
-        <product>Tablet</product>
-        <category>Electronics</category>
-        <total_quantity>5</total_quantity>
-        <total_revenue>1000</total_revenue>
-    </sale>
-    <sale>
-        <product>Smartphone</product>
-        <category>Electronics</category>
-        <total_quantity>7</total_quantity>
-        <total_revenue>7000</total_revenue>
-    </sale>
-    <sale>
-        <product>Printer</product>
-        <category>Accessories</category>
-        <total_quantity>4</total_quantity>
-        <total_revenue>600</total_revenue>
-    </sale>
-</SalesData>
+﻿<Veriler>
+  <Satış>
+    <Tarih>2024-06-12</Tarih>
+    <Bölge>Gaziantep</Bölge>
+    <Ürün Kategorisi>Elektronik</Ürün Kategorisi>
+    <Ürün Adı>Kulaklık</Ürün Adı>
+    <Miktar>1</Miktar>
+    <Birim Fiyat>209.72</Birim Fiyat>
+    <Toplam Tutar>209.72</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2025-01-03</Tarih>
+    <Bölge>Antalya</Bölge>
+    <Ürün Kategorisi>Elektronik</Ürün Kategorisi>
+    <Ürün Adı>Kulaklık</Ürün Adı>
+    <Miktar>1</Miktar>
+    <Birim Fiyat>417.71</Birim Fiyat>
+    <Toplam Tutar>417.71</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2025-01-27</Tarih>
+    <Bölge>Ankara</Bölge>
+    <Ürün Kategorisi>Gıda</Ürün Kategorisi>
+    <Ürün Adı>Kahve</Ürün Adı>
+    <Miktar>10</Miktar>
+    <Birim Fiyat>451.3</Birim Fiyat>
+    <Toplam Tutar>4513.0</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-11-22</Tarih>
+    <Bölge>İzmir</Bölge>
+    <Ürün Kategorisi>Elektronik</Ürün Kategorisi>
+    <Ürün Adı>Kamera</Ürün Adı>
+    <Miktar>4</Miktar>
+    <Birim Fiyat>47.99</Birim Fiyat>
+    <Toplam Tutar>191.96</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-04-16</Tarih>
+    <Bölge>Adana</Bölge>
+    <Ürün Kategorisi>Giyim</Ürün Kategorisi>
+    <Ürün Adı>Tişört</Ürün Adı>
+    <Miktar>10</Miktar>
+    <Birim Fiyat>355.0</Birim Fiyat>
+    <Toplam Tutar>3550.0</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2025-03-09</Tarih>
+    <Bölge>Adana</Bölge>
+    <Ürün Kategorisi>Elektronik</Ürün Kategorisi>
+    <Ürün Adı>Telefon</Ürün Adı>
+    <Miktar>5</Miktar>
+    <Birim Fiyat>226.1</Birim Fiyat>
+    <Toplam Tutar>1130.5</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-11-28</Tarih>
+    <Bölge>İzmir</Bölge>
+    <Ürün Kategorisi>Kozmetik</Ürün Kategorisi>
+    <Ürün Adı>Şampuan</Ürün Adı>
+    <Miktar>1</Miktar>
+    <Birim Fiyat>394.83</Birim Fiyat>
+    <Toplam Tutar>394.83</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-07-02</Tarih>
+    <Bölge>Adana</Bölge>
+    <Ürün Kategorisi>Ev Eşyaları</Ürün Kategorisi>
+    <Ürün Adı>Sandalye</Ürün Adı>
+    <Miktar>4</Miktar>
+    <Birim Fiyat>474.52</Birim Fiyat>
+    <Toplam Tutar>1898.08</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-12-06</Tarih>
+    <Bölge>Gaziantep</Bölge>
+    <Ürün Kategorisi>Kozmetik</Ürün Kategorisi>
+    <Ürün Adı>Şampuan</Ürün Adı>
+    <Miktar>1</Miktar>
+    <Birim Fiyat>213.54</Birim Fiyat>
+    <Toplam Tutar>213.54</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-06-06</Tarih>
+    <Bölge>Bursa</Bölge>
+    <Ürün Kategorisi>Giyim</Ürün Kategorisi>
+    <Ürün Adı>Mont</Ürün Adı>
+    <Miktar>9</Miktar>
+    <Birim Fiyat>467.84</Birim Fiyat>
+    <Toplam Tutar>4210.56</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-06-17</Tarih>
+    <Bölge>Bursa</Bölge>
+    <Ürün Kategorisi>Ev Eşyaları</Ürün Kategorisi>
+    <Ürün Adı>Masa</Ürün Adı>
+    <Miktar>4</Miktar>
+    <Birim Fiyat>151.7</Birim Fiyat>
+    <Toplam Tutar>606.8</Toplam Tutar>
+  </Satış>
+  <Satış>
+    <Tarih>2024-06-28</Tarih>
+    <Bölge>Bursa</Bölge>
+    <Ürün Kategorisi>Giyim</Ürün Kategorisi>
+    <Ürün Adı>Mont</Ürün Adı>
+    <Miktar>6</Miktar>
+    <Birim Fiyat>148.42</Birim Fiyat>
+    <Toplam Tutar>890.52</Toplam Tutar>
+  </Satış>
+</Veriler>
+
